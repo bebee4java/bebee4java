@@ -1,17 +1,17 @@
 ### Hey, bebee4java here!  👋
 
-- 👨‍💻 I’m currently working in alibaba.
+- 👨‍💻 I’m currently working in Alibaba.
 - 🔭 I’m currently working on Spark / Flink / Kubernetes / Golang / Java / Python etc.
-- 🛸 Blog on `java永不为奴` : https://blogtech.top/
+- 🛸 Blog on `java永不为奴` : https://blogtech.top
 - 📝 Note on `YUQUE 语雀` : https://www.yuque.com/songgongru
-- 🚀 OS works on `Datalinked` : https://datalinked.cn/
+- 🚀 OS works on `Datalinked` : https://datalinked.cn
 
 ![](https://github-readme-stats.vercel.app/api?username=bebee4java&theme=dark)
 
 
 ## 🎉 Highlight products
 
-&emsp;&emsp;Personal open source product( [**Datalinked**](https://github.com/bebee4java/ides) ) to solve the unified big `data + AI` development process. In order to simplify the process of `data processing`, `data analysis`, `data mining`, `machine learning`, etc., please pay attention!
+&emsp;&emsp;Personal open source product( [**Datalinked**](https://github.com/bebee4java/ides) ) to solve the unified `bigdata + AI` development process. In order to simplify the process of `data processing`, `data analysis`, `data mining`, `machine learning`, etc., please pay attention!
 
 ![](https://raw.githubusercontent.com/bebee4java/ides/master/docs/imgs/introduce.jpg)
 
