@@ -1,5 +1,12 @@
-### Hi there 👋
+### Hey, bebee4java here!  👋
 
+- 👨‍💻 I’m currently working in alibaba.
+- 🔭 I’m currently working on Spark / Flink / Kubernetes / Golang / Java / Python etc.
+- Blog on `java永不为奴`: https://blogtech.top/
+- Note on `YUQUE 语雀`: https://www.yuque.com/songgongru
+- OS works on `Datalinked`: https://datalinked.cn/
+
+![](https://github-readme-stats.vercel.app/api?username=bebee4java&theme=dark)
 <!--
 **bebee4java/bebee4java** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
