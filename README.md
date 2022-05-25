@@ -11,7 +11,7 @@
 
 ## 🎉 Highlight products
 
-&emsp;&emsp;Personal open source product( [**Datalinked**](https://github.com/bebee4java/ides) ) to solve the unified `bigdata + AI` development process. In order to simplify the process of `data processing`, `data analysis`, `data mining`, `machine learning`, etc., please pay attention!
+&emsp;&emsp;The open source product( [**Datalinked**](https://github.com/bebee4java/ides) ) to solve the unified `bigdata + AI` development process. In order to simplify the process of `data processing`, `data analysis`, `data mining`, `machine learning`, etc., please pay attention!
 
 ![](https://raw.githubusercontent.com/bebee4java/ides/master/docs/imgs/introduce.jpg)
 
