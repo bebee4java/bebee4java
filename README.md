@@ -8,6 +8,11 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=bebee4java&theme=dark)
 
+![](public/imgs/github-contribution-grid-snake.svg)
+
+<br>
+<p align="center"><p align="center"> <img src="https://komarev.com/ghpvc/?username=bebee4java" alt="bebee"/> </p>  </p>
+<br>
 
 ## 🎉 Highlight products
 
