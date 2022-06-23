@@ -14,9 +14,9 @@
 <p align="center"><p align="center"> <img src="https://komarev.com/ghpvc/?username=bebee4java" alt="bebee"/> </p>  </p>
 <br>
 
-## 🎉 Highlight products
+## 🎉 Highlight products: [<u>Datalinked</u>](https://github.com/datalinked/ides)
 
-&emsp;&emsp;The open source product( [**Datalinked**](https://github.com/bebee4java/ides) ) to solve the unified `bigdata + AI` development process. In order to simplify the process of `data processing`, `data analysis`, `data mining`, `machine learning`, etc., please pay attention!
+&emsp;&emsp;The open source product( [**Datalinked**](https://github.com/datalinked/ides) ) to solve the unified `bigdata + AI` development process. In order to simplify the process of `data processing`, `data analysis`, `data mining`, `machine learning`, etc., please pay attention!
 
 ![](https://raw.githubusercontent.com/bebee4java/ides/master/docs/imgs/introduce.jpg)
 
